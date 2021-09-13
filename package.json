@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/akameni2.lwc-ktiohgqr",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve D1M7J4HxrrwbKKgo49Wj --open"
+  }
+}
